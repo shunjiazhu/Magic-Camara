@@ -1,0 +1,6 @@
+/Users/william/Develop/BluetoothChat2/Application/build/intermediates/classes/debug
+/Users/william/Develop/BluetoothChat2/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-bb0ec63b445d245e3fcaa31ec34f97c00fb09d1f.jar
+/Users/william/Develop/BluetoothChat2/Application/build/intermediates/pre-dexed/debug/classes-7355bd7b86a4848d782236a47ab866bbe44023ed.jar
+/Users/william/Develop/BluetoothChat2/Application/build/intermediates/pre-dexed/debug/classes-96e6e9154eff425b6d412792fc0a934648da8ff1.jar
+/Users/william/Develop/BluetoothChat2/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-ad8db811be7a4b3b92a6425ec733d3dff8fe3d0c.jar
+/Users/william/Develop/BluetoothChat2/Application/build/intermediates/pre-dexed/debug/classes-73425605425b3966e86ca31f0f4cdd40de84918b.jar

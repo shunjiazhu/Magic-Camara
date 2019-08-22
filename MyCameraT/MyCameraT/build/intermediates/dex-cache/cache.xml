@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/william/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/william/Develop/MyCameraT/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-ca1ef1a5b05627a738d72ce923ab7e5ef56aac27.jar" />
+    </item>
+    <item
+        jar="/Users/william/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/william/Develop/MyCameraT/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-54866d945a5f4c26e3433749fa00def210cf70cb.jar" />
+    </item>
+    <item
+        jar="/Users/william/Develop/MyCameraT/app/libs/universal-image-loader-1.8.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="09995ba681982ca129af798c9eb21e79c4bffa45">
+        <dex dex="/Users/william/Develop/MyCameraT/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.6-156a32c9c7ec53f540a6f91acf58b28cce6222fb.jar" />
+    </item>
+    <item
+        jar="/Users/william/Develop/MyCameraT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/william/Develop/MyCameraT/app/build/intermediates/pre-dexed/debug/classes-3c479bcb3b8b7a2af4b310c906730f9bccb36613.jar" />
+    </item>
+    <item
+        jar="/Users/william/Develop/MyCameraT/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/william/Develop/MyCameraT/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-fb5094bc92c52b9d1aa17d5edfdad25c36a10f9e.jar" />
+    </item>
+    <item
+        jar="/Users/william/Develop/MyCameraT/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/william/Develop/MyCameraT/app/build/intermediates/pre-dexed/debug/classes-aef949ac8aaf8cb67405b1cbd105d9143a5def29.jar" />
+    </item>
+
+</items>
